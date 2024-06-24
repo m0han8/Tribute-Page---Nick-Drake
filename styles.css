@@ -1,0 +1,28 @@
+body{
+  background-color: peachpuff;
+  line-height: 1.6; 
+}
+
+.name{
+  display: block;
+  text-align: center;
+  text-shadow: 1px 1px 1px white;
+  display: block;
+}
+
+.image{
+  padding-left: 37.5%;
+}
+
+.sideheading{
+  text-align: center;
+  font-size: medium;
+}
+
+.about-him{
+  background-color:lightslategray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 20px;
+}
